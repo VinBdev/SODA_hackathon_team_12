@@ -31,6 +31,28 @@ Psychological
 15. [a11yproject-resources](https://www.a11yproject.com/resources/)
 16. [workrules book](https://www.workrules.net/) how to 
 
+## Helpful resources:
+1. http://nda.ie/disability-overview/ - disability right Ireland
+2. https://www.disabilityrightsuk.org/ - Disability Rights UK
+
+## Tools for helping disabled workers:
+1. https://hcbsprovider.com/assistive-devices-and-tools-for-people-with-disabilities/#:~:text=
+Walkers%2C%20canes%2C%20crutches%2C%20braces,to%20make%20it%20more%
+20accessible.
+2. https://www.nidirect.gov.uk/articles/equipment-people-disabilities
+3. https://monsido.com/blog/tools-web-accessibility-for-disability
+4. https://blog.thewrightstuff.com/products/daily-living-aids/
+5. https://bighack.org/assistive-technology-devices-definitions-how-disabled-people-use-the
+-web/
+6. https://www.nichd.nih.gov/health/topics/rehabtech/conditioninfo/device
+
+## Information about how to improve the workplace for disbaled employees:
+1. https://www.nibusinessinfo.co.uk/content/improve-access-and-use-facilities-disabled-em
+ployees
+2. https://www.ihrec.ie/guides-and-tools/human-rights-and-equality-for-employers/what-doe
+s-the-law-say/disability-and-reasonable-accommodation/
+3. http://www.fih.org.uk/access.html
+
 Links for design 
 1. [logo](https://www.freelogodesign.org/)
 2. [team name creator](https://thestoryshack.com/tools/band-name-generator/)
